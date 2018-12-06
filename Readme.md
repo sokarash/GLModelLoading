@@ -1,3 +1,6 @@
+# GL Modelloading
+based on glitter and the model loading step of [Learn OpenGL Tutorial](https://learnopengl.com/Model-Loading/Model). Added lighting, but the model is just drawn black. Nolight-files added as reference, because they work just fine.
+
 # [Glitter](http://polytonic.github.io/Glitter/)
 ![Screenshot](http://i.imgur.com/MDo2rsy.jpg)
 
