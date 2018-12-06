@@ -1,6 +1,8 @@
 # GL Modelloading
 based on glitter and the model loading step of [Learn OpenGL Tutorial](https://learnopengl.com/Model-Loading/Model). Added lighting, but the model is just drawn black. Nolight-files added as reference, because they work just fine.
 
+use cmake to build, see [here] how its done in the tutorial, I made now changes. Tested with Cmake 3.12.3-win64, Visual Studio 2017 Community 15.9.3 on Windows 10 1809.
+
 # [Glitter](http://polytonic.github.io/Glitter/)
 ![Screenshot](http://i.imgur.com/MDo2rsy.jpg)
 
