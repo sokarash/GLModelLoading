@@ -24,7 +24,7 @@ uniform sampler2D texture_specular1;
 
 uniform PointLight pointLight;
 
-vec3 CalcPointLight(PointLight light, vec3 normal, sampler2D samplerDiffuse, sampler2D samplerSpecular, vec3 fragPos, vec3 viewDir);;
+vec3 CalcPointLight(PointLight light, vec3 normal, sampler2D samplerDiffuse, sampler2D samplerSpecular, vec3 fragPos, vec3 viewDir);
 
 void main()
 {    
